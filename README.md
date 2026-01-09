@@ -4,7 +4,7 @@ A collection of Claude Code plugins tailored for PHP / Laravel development.
 
 ## Plugins
 
-### artisan-simplifier
+### laravel-simplifier
 
 A code simplification agent that refines PHP / Laravel code for clarity, consistency, and maintainability while preserving functionality.
 
@@ -22,7 +22,7 @@ Add the marketplace and install the plugin:
 
 ```
 /plugin marketplace add laravel/claude-code
-/plugin install artisan-simplifier@laravel
+/plugin install laravel-simplifier@laravel
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Add the marketplace and install the plugin:
 Once installed, invoke the code simplifier agent in Claude Code:
 
 ```
-/artisan-simplifier
+/laravel-simplifier
 ```
 
 The agent will analyze recently modified code and suggest refinements following Laravel best practices.
