@@ -22,6 +22,8 @@ Add the marketplace and install the plugin:
 
 ```
 /plugin marketplace add laravel/claude-code
+```
+```
 /plugin install laravel-simplifier@laravel
 ```
 
